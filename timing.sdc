@@ -1,0 +1,1 @@
+create_clock -name SystemClock -period 10.000 [get_ports clk] 
